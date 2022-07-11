@@ -1,4 +1,4 @@
 User-agent: *
 
-Sitemap: https://okedesign.github.io/sitemap.xml
-Sitemap: https://okedesign.github.io/hasil.xml
+Sitemap: https://gegolea.github.io/sitemap.xml
+Sitemap: https://gegolea.github.io/hasil.xml
